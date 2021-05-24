@@ -1,0 +1,170 @@
+*{
+    margin: 0%;
+}
+header{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+}
+.logo{
+    width: 20%;
+    float: left; 
+    height: 100px;
+
+
+} 
+.logo img{
+    width: 70px;
+    padding-left: 30%;
+}
+.nav{
+    width: 40%;
+    float: right;
+    padding-right: 40px;
+    font-size: 17px;
+    height: 100px;
+}
+.nav ul{
+    list-style: none;
+
+
+
+}
+.nav ul li{
+    float: left;
+    margin-left: 40px;
+}
+.content{
+    width: 60%;
+    
+    text-align: center;
+    height: 400px;
+    overflow: hidden;
+    margin: auto;
+}
+.content h1{
+
+color: #1B2750;
+}
+.content h2{
+
+color: #018AFA;
+}
+.content p{
+
+color: #e20a0a;
+}
+.content img{
+
+
+
+}
+.succes{
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+    text-align: right;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.succes h1{
+   
+color: #182854;
+}
+.succes p{
+
+width: 50%;
+
+float: left;
+
+font-size: 20px;
+
+text-align: right;
+}
+.project{
+
+}
+.project h1{
+    width: 50%;
+    float: right;
+    font-size: 25px;
+}
+.feature-section{
+ width: 90%;
+ margin: auto;
+ /* height: 200px; */
+ overflow: hidden;
+ padding-bottom: 60px;
+ padding-top: 40px;
+}
+.feature-one{
+    width: 25%;
+    float: left;
+    text-align: center;
+    background-color: #FEECEC;
+}
+.feature-two{
+   width: 30%;
+   text-align: center;
+   float: left;
+   background-color: #E9FAF4;
+   margin-left: 6%;
+}
+.feature-three{
+   width: 30%;
+   text-align: center;
+   float: left;
+   background-color: #FFF8E8;
+   margin-left: 6%;
+}
+.feature-one img{
+    width: 55%;
+}
+.feature-one h2{
+    text-align: center;
+    /* color: #FEECEC; */
+}
+.feature-one p{font-size: 20px;
+
+
+}
+.feature-two img{
+
+width: 55%;
+}
+.feature-two h2{
+    text-align:center;
+
+
+}
+.feature-two p{font-size: 20px;
+
+
+}
+.feature-three img{
+    width: 55%;
+}
+.feature-three h2{
+    text-align: center;
+
+}
+.feature-three p{font-size: 20px;
+
+
+}
+footer{
+    background-color: blue;
+    text-align: center;
+    padding: 3%;
+    overflow: hidden;
+}
+footer p{
+    color: #64C7FA;
+    font-size: 20px;
+}
+footer p span{
+
+}
